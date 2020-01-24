@@ -1,25 +1,11 @@
-# README
+## Instagram by Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails_instagram
+## Tech Stacks
+- Back-end:
+    - Ruby 2.4
+    - Rails 5.2.x
+    - Database: Postgres 9.6
+    - Gems: Devise, Kaminari, Bootstrap
+- Front-end:
+    - HTML, CSS, Javascript, jQuery
+    - Bootstrap (3.x or 4.x)
