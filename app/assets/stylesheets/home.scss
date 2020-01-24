@@ -1,0 +1,29 @@
+// Place all the styles related to the Home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.form-upload{
+  border: 1px solid #dbdbdb;
+  height: auto;
+  margin: auto 160px;
+  padding: 30px;
+  border-radius: 3px;
+  input[type='text']{
+    width: 100%;
+  }
+}
+
+.pagination{
+  span{
+    padding-right: 10px;
+  }
+}
+
+.new-post-des, .new-post-file {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+}
+.new-post-file {
+  border: none;
+}
